@@ -48,28 +48,28 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "ABES Institute of Technology",
+        "degree": "Bachelor's Degree, Computer Science and Engineering ( AI ) ",
+        "graduated": "2024",
+        "description": "Pursuing Computer Science and Engineering ( AI )"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Google Developer Student Clubs",
+        "title": "Venture Team Member",
+        "years": "August 2021 - Present",
+        "description": "My work is to mainain the students records and to provide them with the best possible experience in the field of computer science."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "60%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "35%"
       },
       {
         "name": "Git",
@@ -77,11 +77,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "60%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "75%"
       }
     ]
   },
