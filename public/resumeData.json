@@ -56,10 +56,28 @@
     ],
     "work": [
       {
+        "company": "Keploy",
+        "title": "Devrel contributor",
+        "years": "August 2022 - Present",
+        "description": "My work is to write technical content and reached out to the people and hosting session on API Literacy."
+      },
+      {
+        "company": "Edverse",
+        "title": "community manager Intern",
+        "years": "August 2022 - Present",
+        "description": "My work is to mainain the students records and to provide them with the best possible experience in the field of computer science."
+      },
+      {
+        "company": "Gaming Geeks",
+        "title": "Technical Co-Head",
+        "years": "January 2022 - Present",
+        "description": "My work is to to guide the Technical team and to provide them with the best possible experience in the field of computer science."
+      },
+      {
         "company": "Google Developer Student Clubs",
         "title": "Venture Team Member",
-        "years": "August 2021 - Present",
-        "description": "My work is to mainain the students records and to provide them with the best possible experience in the field of computer science."
+        "years": "August 2021 - August 2022",
+        "description": "My work was to mainain the students records and to provide them with the best possible experience in the field of computer science."
       }
     ],
     "skills": [
